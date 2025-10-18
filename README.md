@@ -48,5 +48,5 @@ Handled missing or null values in relevant rows and columns.
 
 ### 7.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/khanYasmeen/Atliq-Sales-Dashboard/blob/main/Sales%20Dashboard.png)
 
