@@ -38,8 +38,8 @@ Handled missing or null values in relevant rows and columns.
 - Analyze sales trends year-over-year for performance tracking.
 
 ### 6. 📈 Key Insights
-Total Revenue: 987M
-Total Quantity Sold: 2M
+* Total Revenue: 987M
+* Total Quantity Sold: 2M
 Top City: Delhi NCR (520.7M revenue)
 Top Customer: Electricalsara Stores (413.9M revenue)
 Top Zone: North Zone (68% of total revenue)
