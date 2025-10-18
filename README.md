@@ -40,13 +40,13 @@ Handled missing or null values in relevant rows and columns.
 ### 6. 📈 Key Insights
 * Total Revenue: 987M
 * Total Quantity Sold: 2M
-Top City: Delhi NCR (520.7M revenue)
-Top Customer: Electricalsara Stores (413.9M revenue)
-Top Zone: North Zone (68% of total revenue)
-Top 5 Products contributed the majority of sales revenue
-Yearly sales trend shows steady growth until 2018, followed by a slight decline
+* Top City: Delhi NCR (520.7M revenue)
+* Top Customer: Electricalsara Stores (413.9M revenue)
+* Top Zone: North Zone (68% of total revenue)
+* Top 5 Products contributed the majority of sales revenue
+* Yearly sales trend shows steady growth until 2018, followed by a slight decline
 
 ### 7.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/khanYasmeen/Supply-Chain-Analytics-Dashboard/blob/main/Supplu%20chain%20output.png)
+Example: ![Dashboard Preview]()
 
